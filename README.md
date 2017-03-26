@@ -3,7 +3,8 @@
 ---
 
 ### Stack Overflow Question 32322397
-Xcode project & source code related to [Push notifications in hybrid mobile app, ](http://stackoverflow.com/a/32324540/218152) anwser «How do I connect the userId (of the logged in user) that resides inside the web app with the native wrapper».
+
+Xcode project & source code related to [Push notifications in hybrid mobile app, ](https://stackoverflow.com/questions/32322397/push-notifications-in-hybrid-mobile-app/32324540#32324540) answer «How do I connect the userId (of the logged in user) that resides inside the web app with the native wrapper».
 
 ---
 
@@ -14,6 +15,6 @@ Xcode project & source code related to [Push notifications in hybrid mobile app,
 
 **References:**
 
-- SO-32322397 on [Stack Overflow](http://stackoverflow.com/questions/32322397/push-notifications-in-hybrid-mobile-app)
+- Question [32322397](https://stackoverflow.com/questions/32322397) on Stack Overflow
 - This and other answers posted on [Swift Recipes](http://swiftarchitect.com/recipes/)
 
